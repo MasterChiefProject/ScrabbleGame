@@ -1,2 +1,2 @@
 # ScrabbleGame
-Advanced scrabble words game made in java
+Advanced scrabble game made in java
